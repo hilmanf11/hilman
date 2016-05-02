@@ -1,3 +1,3 @@
 <?php
-	include 'jam.php'
+	include 'checkbox.php'
 ?>
